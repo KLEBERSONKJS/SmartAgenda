@@ -45,6 +45,10 @@ O sistema simula uma agenda inteligente que permite o cadastro de tarefas, notif
 
 ---
 
+## Endpoints
+
+- Cadastrar Tarefa raiz ("/")
+- Listar Tarefas ("/tarefas")
 ##  Como Executar
 
 ```bash
